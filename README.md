@@ -1,2 +1,2 @@
 # Evolutionary-Computation
-Some learning experience，take a closer look at each folder
+Some learning experiences include some basic algorithms and classic algorithms. I have made some improvements to some algorithms and are constantly updated. Some more advanced algorithms may be updated in the future
