@@ -1,2 +1,2 @@
 # Evolutionary-Computation
-Some learning experiences
+Some learning experience，take a closer look at each folder
